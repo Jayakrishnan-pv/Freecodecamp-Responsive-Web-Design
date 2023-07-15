@@ -1,5 +1,5 @@
 	# Freecodecamp-Responsive-Web-Design
-Title: FreeCodeCamp's Responsive Web Design Projects Repository
+FreeCodeCamp's Responsive Web Design Projects Repository
 
 Description:
 Welcome to the FreeCodeCamp's Responsive Web Design Projects Repository! This hub stores and showcases projects completed as part of the Responsive Web Design Certification offered by FreeCodeCamp.
